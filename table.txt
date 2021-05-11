@@ -9,5 +9,6 @@ lastname          - varchar(50)
 date_of_birth     - DATE
 task              - varchar(50)
 mail              - varchar(50)  / UNIQUE
-
+hire_date         - DATE
+accessibility     - varchar(50)
 
