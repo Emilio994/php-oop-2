@@ -1,0 +1,13 @@
+Crea un diagramma per una tabella di db che
+rappresenti gli Users di un blog.
+
+
+Table : User
+ID                - INT / AUTO_INCREMENT / PK
+name              - varchar(50) 
+lastname          - varchar(50)
+date_of_birth     - DATE
+task              - varchar(50)
+mail              - varchar(50)  / UNIQUE
+
+
